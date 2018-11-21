@@ -26,6 +26,7 @@ class {
         //    'fooArgument' => 'barValue',
            // (optional) pass options to the command
            '--env' => 'prod',
+	   // '--no-warmup' => true
         ));
 
         // You can use NullOutput() if you don't need the output
